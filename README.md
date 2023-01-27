@@ -9,6 +9,8 @@ Web-приложение, на основе Streamlit. Простое прило
 [Ссылка](https://tatiana302-final-project-file-1-5glsr8.streamlit.app) на развернутое приложение на Streamlit.
 ## Локальный запуск приложения
 Чтобы запустить его локально, нужно выполнить команду 'streamlit run app.py' в терминале в той же папке репозитория GitHub, где находится файл file_1.py.  
-После этого появится ![локальный URL](/images/primer_1.jpg)  
-В браузере ![можно увидеть что-то подобное](/images/primer_2.jpg)  
+После этого появится  
+![локальный URL](https://github.com/Tatiana302/final-project/blob/main/primer_1.png) 
+
+В браузере ![можно увидеть что-то подобное](https://github.com/Tatiana302/final-project/blob/main/primer_2.png)  
 Здесь введены случайные данные, чтобы показать, как приложение реагирует на них.
