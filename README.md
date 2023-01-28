@@ -10,7 +10,7 @@ Web-приложение, на основе Streamlit. Простое прило
 ## Локальный запуск приложения
 Чтобы запустить его локально, нужно выполнить команду 'streamlit run app.py' в терминале в той же папке репозитория GitHub, где находится файл file_1.py.  
 После этого появится  
-![локальный URL](https://github.com/EkaterinaSeveryanka/final-project_fork/blob/main/primer_2.png) 
+![локальный URL](https://github.com/EkaterinaSeveryanka/final-project_fork/blob/main/primer_1.png) 
 
-В браузере ![можно увидеть что-то подобное](https://github.com/Tatiana302/final-project/blob/main/primer_2.png)  
+В браузере ![можно увидеть что-то подобное](https://github.com/EkaterinaSeveryanka/final-project_fork/blob/main/primer_2.png)  
 Здесь введены случайные данные, чтобы показать, как приложение реагирует на них.
