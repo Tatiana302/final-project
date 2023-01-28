@@ -12,5 +12,8 @@ Web-приложение, на основе Streamlit. Простое прило
 После этого появится  
 ![локальный URL](https://github.com/EkaterinaSeveryanka/final-project_fork/blob/main/primer_1.png) 
 
-В браузере ![можно увидеть что-то подобное](https://github.com/EkaterinaSeveryanka/final-project_fork/blob/main/primer_2.png)  
+
+В браузере
+
+![можно увидеть что-то подобное](https://github.com/EkaterinaSeveryanka/final-project_fork/blob/main/primer_2.png)  
 Здесь введены случайные данные, чтобы показать, как приложение реагирует на них.
