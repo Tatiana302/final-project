@@ -6,5 +6,6 @@ name = st.text_input('Enter your name', '')
 st.write(f'Hello {name}!')
 x = st.slider('Select an integer x', 1, 100, 1)
 y = st.slider('Select an integer y', 1, 100, 1)
-df = pd.DataFrame({'Сложение': [x + y], 'Вычитание': [x - y], 'Умножение': [x * y], 'Деление': [round(x / y, 2)]}, index=['Результат'])
+df = pd.DataFrame({'Сложение': [x + y], 'Вычитание': [x - y], 'Умножение': [x * y], 'Деление': [round(x / y, 2)]},
+                  index=['Результат'])
 st.write(df)
