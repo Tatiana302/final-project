@@ -4,11 +4,17 @@ import pandas as pd
 st.title('A Simple Streamlit Web App')
 name = st.text_input('Enter your name', '')
 st.write(f'Hello {name}!')
-x = st.slider('Select an integer x', 1, 100, 1)
-y = st.slider('Select an integer y', 1, 100, 1)
-df = pd.DataFrame({'Сложение': [x + y],
-                   'Вычитание': [x - y],
-                   'Умножение': [x * y],
-                   'Деление': [round(x / y, 2)]},
-                  index=['Результат'])
-st.write(df)
+variable_х = st.slider('Select an integer x', 1, 100, 1)
+variable_y = st.slider('Select an integer y', 1, 100, 1)
+def sum(variable_х, variable_y):
+   result = variable_х + variable_y
+   return result
+def subtract(variable_х, variable_y):
+   result = variable_х - variable_y
+   return result
+def multiply(variable_х, variable_y):
+   result = variable_х * variable_y
+   return result
+def divide(variable_х, variable_y:
+   result = variable_х / variable_y
+   return result
