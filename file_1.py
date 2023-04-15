@@ -16,6 +16,7 @@ result = {
     "Вычитание": variable_x - variable_y,
     "Умножение": variable_x * variable_y,
     "Деление": round(variable_x / variable_y, 2),
+    "Квадрат Х": variable_x**2
 }
 df = pd.DataFrame(result, index=["Результат"])
 
